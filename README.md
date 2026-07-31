@@ -44,7 +44,7 @@ Sebagai bagian dari persiapan mengikuti seleksi Sekolah Kedinasan, saya rutin me
 3. Buka `StastistikSKD.ipynb` di Jupyter Notebook / JupyterLab
 4. Jalankan seluruh cell secara berurutan (Run → Run All Cells)
 
-## 📂 Struktur File
+## Struktur File
 
 ```
 ├── StastistikSKD.ipynb      # Notebook utama analisis
