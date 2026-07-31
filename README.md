@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="poster_skd.png" width="100%">
+<img src="Anilisi-visualisasi-uji coba-SKD" width="100%">
 
 </div>
 
