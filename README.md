@@ -1,13 +1,6 @@
-# SKD Progress Tracker & Analyzer
+# 📊 SKD Progress Tracker & Analyzer
 
-<div align="center">
-
-<img src="Anilisi-visualisasi-uji coba-SKD" width="100%">
-
-</div>
-
----
-
+![Poster SKD Progress Tracker](poster_skd.png)
 Analisis dan visualisasi progres nilai tryout SKD (Seleksi Kompetensi Dasar), dibangun dengan Python (Pandas, Matplotlib & Plotly).
 
 ## Latar Belakang
